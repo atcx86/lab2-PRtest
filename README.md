@@ -1,2 +1,2 @@
 # lab2-PRtest
-PR测试专用
+黄天章发起PR请求

@@ -83,7 +83,7 @@ class Solution3 {
 }
 public class Solution3Test{
     private final com.atcx.Solution3 solution = new com.atcx.Solution3();
-
+    //可以在此处更新一下几个测试用例设计的依据，是根据等价类划分原则还是根据别的测试原则
     /**
      * 测试基本情况
      * 测试用例：nums = [1,2,3]
